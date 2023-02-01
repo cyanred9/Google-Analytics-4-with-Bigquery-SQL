@@ -1,4 +1,6 @@
 # Google Analytics 4 with Bigquery
+- 기존 UA에서 구글 애널리틱스 4 전환에 따라, 빅쿼리 스키마에 입각하여 필요한 데이터 추출
+- 이벤트 중심의 데이터셋으로, 빅쿼리 스토리지 호환을 통해 샤딩 테이블 방식으로 데이터가 적재됨
 
 ## 현업에서 활용한 Bigquery Standard SQL 리스트
 
